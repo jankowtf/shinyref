@@ -1,1 +1,1 @@
-#' @references \url{http://github.com/whotocomplainto/shinydev}
+#' @references \url{http://github.com/rappster/shinyref}
